@@ -1,0 +1,31 @@
+:root {
+  --buc-primary: #5c3327;
+  --buc-secondary: #d15e14;
+  --eb-primary: #f5f5f5;
+  --eb-secondary: #1976d2;
+  --eb-accent: #fff;
+}
+
+.bg-buc-primary {
+    background-color: var(--buc-primary);
+}
+
+.bg-buc-secondary {
+    background-color: var(--buc-secondary);
+}
+
+.text-eg-primary {
+    color: var(--eb-primary);
+}
+
+.bg-eb-secondary {
+    background-color: var(--eb-secondary);
+}
+
+.bg-eb-primary {
+    background-color: var(--eb-primary);
+}
+
+.text-eb-secondary {
+    color: var(--eb-secondary);
+}
